@@ -1,0 +1,6 @@
+{
+  "template": "Template/Day Planner Template",
+  "folder": "Daily",
+  "format": "YYYY-MM-DD",
+  "autorun": true
+}

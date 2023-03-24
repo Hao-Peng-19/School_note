@@ -1,4 +1,10 @@
 [
   "obsidian-image-auto-upload-plugin",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-checklist-plugin",
+  "obsidian-admonition",
+  "obsidian-memos",
+  "obsidian-day-planner",
+  "cmenu-plugin",
+  "calendar"
 ]
